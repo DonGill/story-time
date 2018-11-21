@@ -10,3 +10,15 @@ C:\Users\dongi\source\repos\Flippy\Flippy\obj\Debug\Flippy.csproj.CopyComplete
 C:\Users\dongi\source\repos\Flippy\Flippy\obj\Debug\Flippy.exe
 C:\Users\dongi\source\repos\Flippy\Flippy\obj\Debug\Flippy.pdb
 C:\Users\dongi\source\repos\Flippy\Flippy\bin\Debug\donkey-long.wpl
+C:\GIT\StorySpin\Flippy\bin\Debug\donkey-long.wpl
+C:\GIT\StorySpin\Flippy\bin\Debug\StorySpin.exe.config
+C:\GIT\StorySpin\Flippy\bin\Debug\StorySpin.exe
+C:\GIT\StorySpin\Flippy\bin\Debug\StorySpin.pdb
+C:\GIT\StorySpin\Flippy\bin\Debug\HtmlAgilityPack.dll
+C:\GIT\StorySpin\Flippy\bin\Debug\HtmlAgilityPack.pdb
+C:\GIT\StorySpin\Flippy\bin\Debug\HtmlAgilityPack.xml
+C:\GIT\StorySpin\Flippy\obj\Debug\Flippy.csprojAssemblyReference.cache
+C:\GIT\StorySpin\Flippy\obj\Debug\Flippy.csproj.CoreCompileInputs.cache
+C:\GIT\StorySpin\Flippy\obj\Debug\Flippy.csproj.CopyComplete
+C:\GIT\StorySpin\Flippy\obj\Debug\StorySpin.exe
+C:\GIT\StorySpin\Flippy\obj\Debug\StorySpin.pdb

@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{A10DA98A-4CF8-43C1-A5C7-63857AA5656E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Flippy</RootNamespace>
-    <AssemblyName>Flippy</AssemblyName>
+    <RootNamespace>StorySpin</RootNamespace>
+    <AssemblyName>StorySpin</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -51,9 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="donkey-long.wpl">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
+    <None Include="sample.wpl" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
