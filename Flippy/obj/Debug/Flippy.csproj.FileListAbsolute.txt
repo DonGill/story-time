@@ -1,0 +1,12 @@
+C:\Users\dongi\source\repos\Flippy\Flippy\obj\Debug\Flippy.csprojAssemblyReference.cache
+C:\Users\dongi\source\repos\Flippy\Flippy\obj\Debug\Flippy.csproj.CoreCompileInputs.cache
+C:\Users\dongi\source\repos\Flippy\Flippy\bin\Debug\Flippy.exe.config
+C:\Users\dongi\source\repos\Flippy\Flippy\bin\Debug\Flippy.exe
+C:\Users\dongi\source\repos\Flippy\Flippy\bin\Debug\Flippy.pdb
+C:\Users\dongi\source\repos\Flippy\Flippy\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dongi\source\repos\Flippy\Flippy\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dongi\source\repos\Flippy\Flippy\bin\Debug\HtmlAgilityPack.xml
+C:\Users\dongi\source\repos\Flippy\Flippy\obj\Debug\Flippy.csproj.CopyComplete
+C:\Users\dongi\source\repos\Flippy\Flippy\obj\Debug\Flippy.exe
+C:\Users\dongi\source\repos\Flippy\Flippy\obj\Debug\Flippy.pdb
+C:\Users\dongi\source\repos\Flippy\Flippy\bin\Debug\donkey-long.wpl
