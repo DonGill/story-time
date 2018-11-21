@@ -1,9 +1,0 @@
-<smil>
-  <head />
-  <body>
-    <seq>
-      <media src="https://archive.org/download/otr_cbsradiomysterytheater/CBSRadioMysteryTheaterTheSmokingPistolDec141976.mp3" />
-      <media src="https://archive.org/download/otr_cbsradiomysterytheater/CBSRMT740106-000132-TheOldOnesAreHardtoKill.mp3" />
-    </seq>
-  </body>
-</smil>
