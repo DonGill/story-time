@@ -1,0 +1,11 @@
+C:\GIT\StorySpin\program\bin\Release\StorySpin.exe.config
+C:\GIT\StorySpin\program\bin\Release\StorySpin.exe
+C:\GIT\StorySpin\program\bin\Release\StorySpin.pdb
+C:\GIT\StorySpin\program\bin\Release\HtmlAgilityPack.dll
+C:\GIT\StorySpin\program\bin\Release\HtmlAgilityPack.pdb
+C:\GIT\StorySpin\program\bin\Release\HtmlAgilityPack.xml
+C:\GIT\StorySpin\program\obj\Release\StorySpin.csprojAssemblyReference.cache
+C:\GIT\StorySpin\program\obj\Release\StorySpin.csproj.CoreCompileInputs.cache
+C:\GIT\StorySpin\program\obj\Release\StorySpin.csproj.CopyComplete
+C:\GIT\StorySpin\program\obj\Release\StorySpin.exe
+C:\GIT\StorySpin\program\obj\Release\StorySpin.pdb
